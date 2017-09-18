@@ -1,0 +1,32 @@
+{
+  "global": {
+    "globalBindingDataTestObj": [],
+    "globalAutoLayerMarkEnable": false
+  },
+  "15e6080cfa4": {
+    "bindingDataTestObj": []
+  },
+  "15e790d6d65": {
+    "path": "..\\resource\\my_skins\\buttonSkin.ts",
+    "class": "buttonSkin",
+    "parentPath": ""
+  },
+  "15e93ccc9d3": {
+    "guideLines": [
+      {
+        "type": "v",
+        "pos": -313
+      },
+      {
+        "type": "h",
+        "pos": -16
+      },
+      {
+        "type": "h",
+        "pos": -20
+      }
+    ],
+    "guideLinesEnabled": true,
+    "bindingDataTestObj": []
+  }
+}
